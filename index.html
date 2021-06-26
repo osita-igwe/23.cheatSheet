@@ -30,24 +30,24 @@
         <td class="title">align-content</td>
         <td>Specifies the alignment between the lines inside a flexible container when the items do not use all
           available space</td>
-        <td> <a href="https://www.w3schools.com/cssref/css3_pr_align-content.asp">Citation</a></td>
+        <td> <a href="https://www.w3schools.com/cssref/css3_pr_align-content.asp">Citation & Use Examples</a></td>
       </tr>
       <tr>
         <td class="title">align-items</td>
         <td>Specifies the alignment for items inside a flexible container</td>
-        <td> <a href="https://www.w3schools.com/cssref/css3_pr_align-items.asp">Citation</a></td>
+        <td> <a href="https://www.w3schools.com/cssref/css3_pr_align-items.asp">Citation & Use Examples</a></td>
       </tr>
       <tr>
         <td class="title">align-self</td>
         <td>Specifies the alignment for selected items inside a flexible container</td>
-        <td> <a href="https://www.w3schools.com/cssref/css3_pr_align-self.asp">Citation</a></td>
+        <td> <a href="https://www.w3schools.com/cssref/css3_pr_align-self.asp">Citation & Use Examples</a></td>
       </tr>
       <!--All-->
       <tr>
         <th scope="row" rowspan="1">All</th>
         <td class="title">all</td>
         <td>Resets all properties (except unicode-bidi and direction)</td>
-        <td> <a href="https://www.w3schools.com/cssref/css3_pr_all.asp">Citation</a></td>
+        <td> <a href="https://www.w3schools.com/cssref/css3_pr_all.asp">Citation & Use Examples</a></td>
       </tr>
       <!--Animation-->
       <tr>
