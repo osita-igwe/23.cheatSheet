@@ -19,7 +19,7 @@ In this project, you’ll be building your own reference cheat sheet to help you
 
 ## Example
 
-![Example Project Page!](./example.png)
+![Example Project Page!](./original.png)
 
 ## Completed Draft 1: CSS Property Cheat Sheet
 
